@@ -1,0 +1,11 @@
+npx prisma db push: 将改变更新到数据库中
+px prisma generate： 将操作指令翻译成SQL
+npx prisma studio: 启动studio，可视化管理数据库
+
+stripe login
+stripe listen --forward-to localhost:3000/api/webhook
+stripe trigger payment_intent.succeeded
+
+https://dashboard.stripe.com/test/settings/billing/portal : activate the creation upon a portal session in test mode
+
+npm run lint: 编译

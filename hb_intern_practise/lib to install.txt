@@ -1,0 +1,3 @@
+npm i react-hot-toast
+
+npm i typewriter-effect
